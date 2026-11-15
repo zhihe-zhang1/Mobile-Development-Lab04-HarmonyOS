@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "实验四商品与路由演示"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "商品名册入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "路由小铺"
+    }
+  ]
+}
